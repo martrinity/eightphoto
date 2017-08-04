@@ -1,0 +1,13 @@
+@mixin menu-btn{
+    border: 1px solid #eee;
+    cursor: pointer;
+    float: right;
+    height: 36px;
+    margin: 0 auto;
+    position: relative;
+    right: 0;
+    width: 40px;
+    z-index: 999999;
+    transition: all ease 0.4s;
+    -webkit-transition: all ease 0.4s;
+}
